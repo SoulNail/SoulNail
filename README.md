@@ -1,64 +1,79 @@
-🌸 Junshi Wang | 二次元数据炼金术师
-以数据和模型为魔法阵，召唤时间序列与异常检测的使魔。
-“今天也要元气满满地调参呀！”
+# 你好，我是 [你的名字] 👋
 
-[Follow](https://github.com/SoulNail)
-Kawaii
-TimeSeries
-Anomaly
+[一句话自我定位/使命宣言，例如：全栈开发者｜专注于 [领域]｜热爱开源与知识分享]
 
+- 🔭 正在做： [当前项目或方向]
+- 🌱 正在学： [技术/框架/领域]
+- 💬 可以聊： [你擅长的话题]
+- 📫 联系我： [邮箱] · [LinkedIn] · [Twitter/X] · [个人网站]
+- 🧰 技术栈： [语言/框架/工具简列，如：TypeScript · Go · Rust · React · Node.js · PostgreSQL · Docker · k8s]
+- ⚡ 有趣的事实： [一条个性化小趣事]
 
-🧭 我是谁
-ML Practitioner | 时序预测 · 异常检测 · 因果推断
-自建 Homelab 驱动的炼金工坊：MLflow · MinIO · Grafana
-爱好：番剧/音游/跑团 | 立绘收藏 | 截图考据
-口头禅：数据要干净，报告要可爱，实验要可复现
-联系我：youremail@example.com · Blog · Twitter · Bilibili
+---
 
-🎀 看板娘的任务清单
- 调参召唤阵稳定 +5% AUC
- 完成“时序大改造”特别篇报告
- 录一段模型卡讲解的可爱视频
- 做一份“异常告警复盘”小漫画
-📦 代表作 Project Cards
-⏳ Rolling Forecast 魔法书
+## 🧩 关于我
+- [简短经历或背景]
+- [价值观/工作方式，比如：结果导向、重视可维护性、数据驱动]
+- [开源贡献/社区经历]
 
-sMAPE 18.3% → 12.5%，支持 80/95% 置信区间与滚动回测
-Links: Code · Report
-👁️ Anomaly Detector·式神
+---
 
-Isolation Forest + SR-CNN，PR-AUC +8.4 pp；SHAP 解释与阈值自适应
-Links: Repo · Runbook
-🧪 Causal Spell（广告/活动因果影响）
+## 🗂️ 精选项目
+- [项目名1] — [一句话亮点/定位]  
+  技术： [关键技术] · 演示： [Demo/链接] · 代码： [Repo 链接]
+- [项目名2] — [一句话亮点/定位]  
+  技术： [关键技术] · 演示： [Demo/链接] · 代码： [Repo 链接]
+- [项目名3] — [一句话亮点/定位]  
+  技术： [关键技术] · 演示： [Demo/链接] · 代码： [Repo 链接]
 
-DID / PSM / 合成控制，报告含稳健性检验与敏感性分析
-Links: Notebooks
-更多作品请移步魔法档案馆 ➜ https://your-portfolio.github.io
+> 小贴士：保持项目条目简洁，每个项目一句话说明价值 + 关键技术 + 链接。
 
-🛠 技能树 Skill Tree
-ML 魔法：Time series（TFT/Prophet/N-BEATS）· Recsys（LightFM）· Causal（DID/PSM）
-数据炼金：Pandas/Polars · SQL(Postgres) · DuckDB · 特征工程阵
-工程加护：MLflow · DVC · Hydra · Prefect/Airflow · Docker · GH Actions
-自宅结界：Traefik · Prometheus/Grafana/Loki · MinIO · JupyterHub
-🎬 最近在追
-TV: “葬送的芙莉莲” · “孤独摇滚！” · “吹响吧！上低音号” S3
-Game: Arcaea / Project SEKAI / 原神（须弥活动收集中）
-Music: Aimer · 澤野弘之 · YOASOBI
-想法单：把“异常告警日志”做成弹幕风可视化，像看直播回放一样复盘。
+---
 
-🧩 小挂件 Widgets
-Stats
-Langs
-Trophy
+## 📊 GitHub 数据
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[你的GitHub用户名]&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[你的GitHub用户名]&layout=compact&theme=transparent)
 
-🗺 世界线与坐标
-出没：Tokyo ↔ Shanghai（虚拟坐标系）
-同步频道：Discord/Telegram/QQ（加好友请备注“从 GitHub 来”）
-📜 署名与小心愿
-这个主页使用了 Shields、Readme Stats、Typing SVG 等开源挂件。
-愿每个模型都能顺利收敛，每份报告都能有人喜欢。🌟
-使用说明
+> 注意：上述服务依赖第三方，无统计需求可删除本节。
 
-把 your-username、链接与项目替换为你的实际信息。
-README 中的 SVG/图片外链如加载不稳定，可删减或替换本地静态图。
-想要“粒子背景、滚动动效、看板娘 Live2D”等更浓度的效果，建议额外开一个 GitHub Pages 页面；我可以给你生成完整的 HTML 模板并内置 Live2D、tsparticles、AOS 动效。需要的话直接告诉我。
+---
+
+## 🛠 常用工具与环境
+- 语言： [如：TypeScript / Go / Python / Rust]
+- 前端： [如：React / Next.js / Vue / Tailwind CSS]
+- 后端： [如：Node.js / Spring Boot / Django / FastAPI]
+- 数据库与消息： [如：PostgreSQL / MySQL / Redis / Kafka]
+- DevOps： [如：Docker / Kubernetes / GitHub Actions / Terraform]
+- 云与平台： [如：AWS / GCP / Azure / Vercel / Fly.io]
+
+---
+
+## ✍️ 最新博文
+- [文章标题1](链接) — [一句话摘要]
+- [文章标题2](链接) — [一句话摘要]
+- [文章标题3](链接) — [一句话摘要]
+
+> 若无博客，可移除此节；或替换为近期演讲/分享/播客。
+
+---
+
+## 🤝 合作与交流
+我对以下方向的合作持开放态度：
+- [咨询/外包/顾问/内推/演讲/培训等]
+- [开源协作或维护]
+- [创业项目或技术合伙人]
+
+如果你对我的项目感兴趣，欢迎提交 Issue 或 PR，一起让它们变得更好！
+
+---
+
+## 🧍 社交与链接
+- 主页： [yourdomain.com]
+- 领英： [LinkedIn 链接]
+- 推特： [Twitter/X 链接]
+- 微信/Telegram： [可留加密方式或二维码链接]
+- 邮箱： [you@example.com]
+
+---
+
+感谢你的来访！如果这个主页对你有帮助，别忘了点个 ⭐ 支持一下我的项目。
