@@ -5,7 +5,7 @@
 - 🔭 正在做： 深度学习 | 眼底血管分割 | 大模型微调 | 部署属于自己的服务器
 - 🌱 正在学： Medical SAM | Docker | Openwrt
 - 💬 可以聊： Hollow Knight
-- 📫 联系我： harukazew@outlook.com · harukaze.site
+- 📫 联系我： harukazew@outlook.com
 - 🧰 技术栈： Docker | Python
 - ⚡ 有趣的事实： imsb
 
