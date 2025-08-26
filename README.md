@@ -31,8 +31,8 @@
 ---
 
 ## 📊 GitHub 数据
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[你的GitHub用户名]&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[你的GitHub用户名]&layout=compact&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[SoulNail]&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[SoulNail]&layout=compact&theme=transparent)
 
 > 注意：上述服务依赖第三方，无统计需求可删除本节。
 
