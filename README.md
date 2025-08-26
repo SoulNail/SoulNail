@@ -21,7 +21,7 @@
 - Retinal Segmentation — paper的代码
   技术： Python | 模型创新
 - 用Docker自建的FlieCodeBox — paper的代码
-  技术： 来自[https://github.com/vastsa/FileCodeBox]
+  技术： 来自[FileCodeBox](https://github.com/vastsa/FileCodeBox)
 
 ---
 
