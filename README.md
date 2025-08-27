@@ -2,7 +2,7 @@
 
 热爱开源与知识分享
 
-- 🔭 正在做： 深度学习 | 眼底血管分割 | 大模型微调 | 部署属于自己的服务器
+- 🔭 正在做： 深度学习 | 眼底血管分割 | 大模型微调 | 服务器维护
 - 🌱 正在学： Medical SAM | Docker | Openwrt
 - 💬 可以聊： Hollow Knight
 - 📫 联系我： harukazew@outlook.com
