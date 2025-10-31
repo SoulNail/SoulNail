@@ -12,13 +12,6 @@
 ## 🧩 关于我
 - 家庭服务器、NAS、软路由
 
----
-
-## 🗂️ 精选项目
-- Retinal Segmentation
-  技术： Python | 模型创新
-- 用Docker自建的FlieCodeBox — paper的代码
-  技术： 来自[FileCodeBox](https://github.com/vastsa/FileCodeBox)
 
 ---
 
