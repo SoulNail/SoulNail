@@ -12,12 +12,12 @@
 ---
 
 ## 🧩 关于我
-- 家庭服务器、家庭数据中心、NAS、软路由
+- 家庭服务器、NAS、软路由
 
 ---
 
 ## 🗂️ 精选项目
-- Retinal Segmentation — paper的代码
+- Retinal Segmentation
   技术： Python | 模型创新
 - 用Docker自建的FlieCodeBox — paper的代码
   技术： 来自[FileCodeBox](https://github.com/vastsa/FileCodeBox)
@@ -27,16 +27,6 @@
 ## 📊 GitHub 数据
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoulNail&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoulNail&layout=compact&theme=transparent)
-
----
-
-## 🛠 常用工具与环境
-- 语言： Python
-- 前端： 不会
-- 后端： Django | Flask
-- 数据库与消息： MySQL
-- DevOps： Docker
-- 云与平台： AWS | 自建服务器 | Tencent Cloud | Aliyun
 
 
 ---
